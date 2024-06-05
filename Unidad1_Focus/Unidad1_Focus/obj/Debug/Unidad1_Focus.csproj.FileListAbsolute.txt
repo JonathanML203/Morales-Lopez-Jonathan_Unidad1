@@ -1,0 +1,10 @@
+D:\source\repos\Unidad1_Focus\Unidad1_Focus\obj\Debug\Unidad1_Focus.csproj.AssemblyReference.cache
+D:\source\repos\Unidad1_Focus\Unidad1_Focus\obj\Debug\Unidad1_Focus.Form1.resources
+D:\source\repos\Unidad1_Focus\Unidad1_Focus\obj\Debug\Unidad1_Focus.Properties.Resources.resources
+D:\source\repos\Unidad1_Focus\Unidad1_Focus\obj\Debug\Unidad1_Focus.csproj.GenerateResource.cache
+D:\source\repos\Unidad1_Focus\Unidad1_Focus\obj\Debug\Unidad1_Focus.csproj.CoreCompileInputs.cache
+D:\source\repos\Unidad1_Focus\Unidad1_Focus\bin\Debug\Unidad1_Focus.exe.config
+D:\source\repos\Unidad1_Focus\Unidad1_Focus\bin\Debug\Unidad1_Focus.exe
+D:\source\repos\Unidad1_Focus\Unidad1_Focus\bin\Debug\Unidad1_Focus.pdb
+D:\source\repos\Unidad1_Focus\Unidad1_Focus\obj\Debug\Unidad1_Focus.exe
+D:\source\repos\Unidad1_Focus\Unidad1_Focus\obj\Debug\Unidad1_Focus.pdb
